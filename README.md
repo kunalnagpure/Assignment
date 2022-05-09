@@ -1,6 +1,6 @@
 # Assignment
 
 Python Assignments : -
-/n Basic List 
-/n Programming_Assignment1
-/n Programming_Assignment2
+Basic List 
+Programming_Assignment1
+Programming_Assignment2
